@@ -1,2 +1,2 @@
 numpy
-astropy
+-e git://github.com/iguananaut/astropy.git@issue-320#egg=astropy
